@@ -11,3 +11,7 @@
 .btn-blue {
   @apply text-white bg-blue-500 hover:bg-blue-700;
 }
+
+.btn-red {
+  @apply text-white bg-red-500 hover:bg-red-700;
+}
